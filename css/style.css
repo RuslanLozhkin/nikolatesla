@@ -1,0 +1,29 @@
+body{
+ 	margin-top: 60px;
+ }
+ .txt{
+    font-family:Verdana, Times;
+    font-style: bold;
+  }
+.say{
+  font-family: Cambria;
+  font-style: italic;
+}
+ .last-txt{
+ 	font-family: sans-serif;
+ 	font-style: italic;
+ }
+ p {
+    text-indent: 20px; 
+   }
+.jumbotron{
+  background-color: #eef;
+}
+hr{
+  width: 70%;
+  border-width: 3px;
+  border-color: #cc0;
+}
+.text-width{
+  width: 70%;
+}
